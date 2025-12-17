@@ -235,7 +235,7 @@ figure_list:
     alt: "Cover from the score for John Cage's *A Dip in the Lake* with the title in an ornate font."
 
   - id: "cagesheet"
-    src: cagemusicsheet.jpg 
+    src: cagemusicsheet.jpeg 
     caption: "Page from the score for *A Dip in the Lake*"
     alt: "Page from the score for *A Dip in the Lake* showing listed addresses under sections titled Quickstep and Waltz"
 
